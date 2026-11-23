@@ -11,7 +11,7 @@ namespace EasySeller\SiteSdk;
 final class Client
 {
     public const DEFAULT_BASE = 'https://easyseller.kz/api/site/v2';
-    public const VERSION = '1.0.0';
+    public const VERSION = '1.1.1';
 
     private Transport $transport;
 
