@@ -50,7 +50,7 @@ final class MyShopData implements DataSource
             'module' => 'my-shop-connector 1.0',
             'capabilities' => ['products.read', 'orders.read', 'prices.write'],
             'modes' => ['prices' => 'on'],
-            'currency' => 'RUB',
+            'currency' => 'KZT',
         ];
     }
 
